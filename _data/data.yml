@@ -157,19 +157,19 @@ projects:
     assignments:
       - title: Jun. 2019
 #        link: "#hook"
-        tagline: "The Applied Bioinformatics and Public Health Microbiology conference (Cambridge, UK)"
+        tagline: "The Applied Bioinformatics and Public Health Microbiology conference (Cambridge, UK)."
 
       - title: Jun. 2019
 #        link: "#"
-        tagline: "Metagenomics Bioinformatics 2019 training courses, EBI"
+        tagline: "Metagenomics Bioinformatics 2019 training courses, EBI."
 
       - title: May. 2019
 #        link: "#"
-        tagline: "Network Analysis with Cytoscape and PSICQUIC (1-day training, EBI)"
+        tagline: "Network Analysis with Cytoscape and PSICQUIC (1-day training, EBI)."
 
       - title: May. 2019
 #        link: "#"
-        tagline: "Python and R higher level training (University of Cambridge)"
+        tagline: "Python and R higher level training (University of Cambridge)."
 
       - title: Sept. 2017
 #        link: "#"
@@ -199,6 +199,41 @@ publications:
       - title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
+
+honors:
+    title: Honors & Awards
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Nov. 2018
+#        link: "#hook"
+        tagline: "Make to the final eight of “G-ideas” Gene creative application contest 
+        (skin microbiome metagenomics related business plan)."
+
+      - title: Oct. 2018
+#        link: "#"
+        tagline: "Full scholarship of the United Nations Headquarters Internship, New York."
+
+      - title: Aug. 2018
+#        link: "#"
+        tagline: "Scholarship to 2018 University Scholars Leadership Symposium (USLS), Thailand."
+
+      - title: Feb. 2018
+#        link: "#"
+        tagline: "Best Presentation Award in Oxford Prospects Programme." |
+                 “Full scholarship to Oxford Prospects Programme.”
+
+      - title: 2017 and 2018
+#        link: "#"
+        tagline: "The First Prize Scholarship at Northwestern Polytechnical University."
+      
+      - title: Sept. 2017
+#        link:
+        tagline: "Excellent Prize in “Falling Walls Lab China”."
+        
 
 skills:
     title: Skills &amp; Proficiency
