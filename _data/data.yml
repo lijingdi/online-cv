@@ -73,9 +73,9 @@ experiences:
         Working on the project Comparison gut microbiome metagenomics study 
         between T2D patients and healthy subjects (collaborative project of 
         Novo Nordisk and EBI, supervised by Dr. Rob Finn and Dr. Alex Mitchell). 
-        Contribution--Perform the whole analysis including literature search, 
+        Contribution -- Performing the whole analysis including literature search, 
         data collection, data analysis (on going).
-#          - Bullet point
+          - Large-scale gut microbiome metagenomics study on T2D samples
 #          - Bullet point
 
     - role: Intern
@@ -86,22 +86,22 @@ experiences:
         New York. Doing data archiving and metadata processing work, as well as 
         working as a volunteer for some high-level meetings. Working with all levels 
         of people from diverse cultural backgrounds.
-#          - Bullet point
+          - Multicultural exposure
 #          - Bullet point
 
     - role: Master Student
       time: Mar. 2018 - Present
-      company: Northwestern Polytechnical University & City University of Hong kong
+      company: Northwestern Polytechnical University & City University of Hong Kong
       details: |
         Developing a user-friendly interactive database of multiple human disease-related
         (including inflammation, obesity, T2D, etc.) gut microbiome (including specific 
         taxa and functional pathways) for information searching or prediction on new data. 
         Related papers on research of human-disease gut microbiome have been collected for 
         information collection and raw data reanalysis using standard pipeline. 
-        Computation now in progress. Contribution--Collected the paper and raw data,
-        will perform the whole analysis and construct the database. 
-#          - Bullet point
-#          - Bullet point
+        Computation now in progress. Contribution -- Collecting the paper and raw data,
+        performing the whole analysis and construct the database. 
+          - Gut microbiome data collection on multiple diseased samples 
+          - Database construction
 
     - role: Master Student
       time: Jun. 2017 - Jan. 2019
@@ -110,9 +110,9 @@ experiences:
         Developed automatic genome-based pipeline to discover horizontal gene transfer 
         and conducted research on identification of the horizontally transferred genes in insects. 
         Granted the Seed Foundation of Innovation and Creation for Graduate Students in 
-        Northwestern Polytechnical University [Z2018230]. Contribution--Designed the study, 
+        Northwestern Polytechnical University [NO. Z2018230]. Contribution -- Designed the study, 
         established the local database and configured the software, performed the whole analysis.
-#          - Bullet point
+          - Horizontal gene transfer
 #          - Bullet point
 
 
@@ -122,9 +122,9 @@ experiences:
       details: |
         Bioinformatics Intern at Beijing Genomics Institution (Shenzhen, Guangdong). 
         Conducted research on individual identification using gut microbial genomes. 
-        Patent granted (Patent No. 201810368491.3). Contribution--Participated in the statistical part
+        Patent granted (Patent No. 201810368491.3). Contribution -- Participated in the statistical part
         (calculating the forensic parameters such as discrimination power), drafted the patent.
-#          - Bullet point
+          - Human gut microbiome, variant calling
 #          - Bullet point
 
     - role: Master Student
@@ -134,8 +134,8 @@ experiences:
          Conducted research on evolution history of Fe-S cluster A-type assembly protein family. 
          Thesis “The evolution of Fe-S cluster A-type assembly protein reveals duplication and multiple 
          horizontal gene transfer events.” Submitted to Genome Biology and Evolution (under review). 
-         Contribution--Designed the study, performed the whole analysis, wrote the paper.
-#          - Bullet point
+         Contribution -- Designed the study, performed the whole analysis, wrote the paper.
+          - Protein family evolution 
 #          - Bullet point
 
     - role: Undergraduate Student
@@ -143,8 +143,8 @@ experiences:
       company: School of Life Science, Northwestern Polytechnical University 
       details: |
          Participated in Undergraduate PEAK Program “Mechanism of miR-138-5p involved in  the regulation 
-         of skeletal muscle interactions.” Contribution--Participated in experiments on mice.
-#          - Bullet point
+         of skeletal muscle interactions.” Contribution -- Participated in experiments on mice.
+          - Animal Experiment
 #          - Bullet point
 
 projects:
