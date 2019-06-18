@@ -50,8 +50,8 @@ career-profile:
 
       Second paragraph if required.
 
-education:
-    - degree: Master of Science, Biology, Bioinformatics in specific
+education: 
+    - degree: Master of Science, Biology (Bioinformatics in specific)
       university: Northwestern Polytechnical University, P.R.China
       time: Sept. 2017 - Present
 #      details: 
