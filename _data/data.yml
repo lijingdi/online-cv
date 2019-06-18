@@ -56,82 +56,110 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Science, Biology (Bioinformatics in specific)
+      university: Northwestern Polytechnical University, P.R.China
+      time: Sept. 2017 - Present
+      details: 
+          - Joint training (Northwestern Polytechnical University and Beijing Genomics Institute. BGI shenzhen)
+          - 90+/100 major GPA
+          - Short-term communication at Oxford University
+
+    - degree: Bachelor of Science, Biotechnology
+      university: Northwestern Polytechnical University, P.R.China
+      time: Sept. 2013 - Jul. 2017
+      details:
+          - 90/100 major GPA
+          - Exam-exempted postgraduate
+
+Research/Work experiences:
+    - role: Trainee
+      time: Mar. 2019 - Present
+      company: EMBL-EBI, Cambridge UK
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Trainee at the European Bioinformatics Institute (EBI-EMBL). 
+        Working on the project Comparison gut microbiome metagenomics study 
+        between T2D patients and healthy subjects (collaborative project of 
+        Novo Nordisk and EBI, supervised by Dr. Rob Finn and Dr. Alex Mitchell). 
+        Contribution--Perform the whole analysis including literature search, 
+        data collection, data analysis (on going).
+#          - Bullet point
+#          - Bullet point
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - role: Intern
+      time: Oct. 2018 - Jan. 2019
+      company: United Nations Headquarters, New York USA
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Intern at the Department of Public Information, United Nations Headquarters, 
+        New York. Doing data archiving and metadata processing work, as well as 
+        working as a volunteer for some high-level meetings. Working with all levels 
+        of people from diverse cultural backgrounds.
+#          - Bullet point
+#          - Bullet point
 
-          - Bullet point
-          - Bullet point
-
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Master Student
+      time: Mar. 2018 - Present
+      company: Northwestern Polytechnical University & City University of Hong kong
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Developing a user-friendly interactive database of multiple human disease-related
+        (including inflammation, obesity, T2D, etc.) gut microbiome (including specific 
+        taxa and functional pathways) for information searching or prediction on new data. 
+        Related papers on research of human-disease gut microbiome have been collected for 
+        information collection and raw data reanalysis using standard pipeline. 
+        Computation now in progress. Contribution--Collected the paper and raw data,
+        will perform the whole analysis and construct the database. 
+#          - Bullet point
+#          - Bullet point
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Master Student
+      time: Jun. 2017 - Jan. 2019
+      company: School of Life Science, Northwestern Polytechnical University 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Developed automatic genome-based pipeline to discover horizontal gene transfer 
+        and conducted research on identification of the horizontally transferred genes in insects. 
+        Granted the Seed Foundation of Innovation and Creation for Graduate Students in 
+        Northwestern Polytechnical University [Z2018230]. Contribution--Designed the study, 
+        established the local database and configured the software, performed the whole analysis.
+#          - Bullet point
+#          - Bullet point
 
-          - Bullet point
-          - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Intern
+      time: Mar. 2017 - Dec. 2018
+      company: Beijing Genomics Institute, BGI Shenzhen, China
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Bioinformatics Intern at Beijing Genomics Institution (Shenzhen, Guangdong). 
+        Conducted research on individual identification using gut microbial genomes. 
+        Patent granted (Patent No. 201810368491.3). Contribution--Participated in the statistical part
+        (calculating the forensic parameters such as discrimination power), drafted the patent.
+#          - Bullet point
+#          - Bullet point
 
-          - Bullet point
-          - Bullet point
+    - role: Master Student
+      time: Sept. 2016 - May. 2017
+      company: School of Life Science, Northwestern Polytechnical University 
+      details: |
+         Conducted research on evolution history of Fe-S cluster A-type assembly protein family. 
+         Thesis “The evolution of Fe-S cluster A-type assembly protein reveals duplication and multiple 
+         horizontal gene transfer events.” Submitted to Genome Biology and Evolution (under review). 
+         Contribution--Designed the study, performed the whole analysis, wrote the paper.
+#          - Bullet point
+#          - Bullet point
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    - role: Undergraduate Student
+      time: Sept. 2015 - Jul. 2016
+      company: School of Life Science, Northwestern Polytechnical University 
+      details: |
+         Participated in Undergraduate PEAK Program “Mechanism of miR-138-5p involved in  the regulation 
+         of skeletal muscle interactions.” Contribution--Participated in experiments on mice.
+#          - Bullet point
+#          - Bullet point
+
+Academic Acitivities / Training:
+    title: Academic Acitivities / Training
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
       - title: Velocity
