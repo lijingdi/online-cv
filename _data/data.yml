@@ -51,11 +51,11 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: Master of Science, Biology (Bioinformatics in specific)
+    - degree: Master of Science, Biology, Bioinformatics in specific
       university: Northwestern Polytechnical University, P.R.China
       time: Sept. 2017 - Present
 #      details: 
-          - Joint training (Northwestern Polytechnical University and Beijing Genomics Institute. BGI shenzhen)
+          - Joint training of Northwestern Polytechnical University and Beijing Genomics Institute. BGI shenzhen
           - 90+/100 major GPA
           - Short-term communication at Oxford University
 
