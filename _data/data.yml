@@ -42,13 +42,9 @@ sidebar:
 career-profile:
     title: Research Interest
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+     My primary research interest is in human skin microbiome metagenomics study and microbiome-host interactions, 
+     especially in the difference of composition and metabolic network between different individuals’ skin microbiome
+     communities and host immune response to the microbiome. I’m also interested in evolutionary biology.
 
 education: 
     - degree: Master of Science, Biology (Bioinformatics in specific)
@@ -159,32 +155,37 @@ projects:
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Jun. 2019
+#        link: "#hook"
+        tagline: "The Applied Bioinformatics and Public Health Microbiology conference (Cambridge, UK)"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Jun. 2019
+#        link: "#"
+        tagline: "Metagenomics Bioinformatics 2019 training courses, EBI"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: May. 2019
+#        link: "#"
+        tagline: "Network Analysis with Cytoscape and PSICQUIC (1-day training, EBI)"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: May. 2019
+#        link: "#"
+        tagline: "Python and R higher level training (University of Cambridge)"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Sept. 2017
+#        link: "#"
+        tagline: "The 2nd China’s Academic Forum on Biosystematics (Beijing, P.R.China)."
+      
+      - title: Sept. 2016
+#        link:
+        tagline: "The 8th International Conference on Molecular Simulation and Informatics Technology application 
+        (Dalian, Liaoning, P.R.China)."
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
 
     papers:
       - title: The Art of Computer Programming
@@ -221,5 +222,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
