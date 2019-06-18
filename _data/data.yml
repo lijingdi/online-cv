@@ -240,27 +240,44 @@ honors:
         tagline: "Excellent Prize in “Falling Walls Lab China”."
         
 
+
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills & Certifications
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+    assignments:
+      - title: Bioinformatics
+#        link: "#hook"
+        tagline: "Linux shell, Python, R, Adobe Illustrator, 
+        genome reads mapping and assembly pipeline, metagenomics analysis pipeline, 
+        phylogenetics, etc."
 
-      - name: Javascript & jQuery
-        level: 98%
 
-      - name: Angular
-        level: 98%
+      - title: Molecular & Cell Biology
+#        link: "#"
+        tagline: "PCR, human cell culturing, etc. Others: experiment experience on mice"
+ 
 
-      - name: HTML5 & CSS
-        level: 95%
+      - title: Language
+#        link: "#"
+        tagline: "Fluent English speaking and writing. TOEFL 106 (October 2016 certified)."
 
-      - name: Ruby on Rails
-        level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - title: Team Work
+#        link: "#"
+        tagline: "Good communication skills; can be a proactive member and fit in well in a 
+        team under multicultural environment; Experience in traineeship at EBI (Cambridge, UK, 1 year, 
+        on going), internship at Beijing Genomics Institute (BGI, shenzhen, ~2 years) and 
+        United Nations Headquarters (NY, 3 months)." 
 
+
+      - title: Corordination
+#        link: "#"
+        tagline: "Great multitasking ability. "
+         
+     
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
