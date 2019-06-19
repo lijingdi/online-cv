@@ -67,7 +67,7 @@ education:
 
 experiences:
     - role: Trainee
-      time: Mar. 2019 - Present
+      time: Mar. 2019 - Present (will last for 1 year)
       company: EMBL-EBI, Cambridge UK
       details: |
         Working on the project "Comparison gut microbiome metagenomics study 
@@ -91,11 +91,11 @@ experiences:
 
     - role: Master Student
       time: Mar. 2018 - Present
-      company: Northwestern Polytechnical University & City University of Hong Kong
+      company: School of Life Science, Northwestern Polytechnical University 
       details: |
         Developing a user-friendly interactive database of multiple human disease-related
         (including inflammation, obesity, T2D, etc.) gut microbiome (including specific 
-        taxa and functional pathways) for information searching or prediction on new data. 
+        taxa and functional pathways) for information searching or prediction on new data. (This is a project of BGI shenzhen and City University of Hong Kong)
         Related papers on research of human-disease gut microbiome have been collected for 
         information collection and raw data reanalysis using standard pipeline. 
         Computation now in progress. 
