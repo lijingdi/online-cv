@@ -170,7 +170,7 @@ projects:
 
       - title: May. 2019
 #        link: "#"
-        tagline: "Python and R higher level training (University of Cambridge)."
+        tagline: "Python and R higher level trainings (University of Cambridge)."
 
       - title: Sept. 2017
 #        link: "#"
@@ -189,15 +189,15 @@ publications:
 #      bibendum fringilla a eu lectus.
 
     papers:
-      - title: Li JD, Lu HM, Zhang YD, Lu XL, Gribskov, M. The evolution of Fe-S cluster A-type assembly protein reveals multiple duplication events. BMC Evol Biol. (resubmitted after "Reject & Resubmit" suggestion)
+      - title: 1. Li JD, Lu HM, Zhang YD, Lu XL, Gribskov, M. The evolution of Fe-S cluster A-type assembly protein reveals multiple duplication events. BMC Evol Biol. (resubmitted after "Reject & Resubmit" suggestion)
 #        authors: Lu HM, Lu XL, Zhai JH, Zhou RB, Qin YL, Li JD, Zhang CY, Shi JY.
 #        conference: "J Mol Graph Model"
 
-      - title: Insight into the process of ligand dissociation form β-adrenergic-like octopamine receptor in Schistocerca gregaria using steered molecular dynamics simulation (SMD)
+      - title: 2. Insight into the process of ligand dissociation form β-adrenergic-like octopamine receptor in Schistocerca gregaria using steered molecular dynamics simulation (SMD)
         authors: Lu, Xiaoli; Rao, Wei; Li, Jingdi; Lu, Huimeng
         conference: BIBE 2018 - International Conference on Biological Information and Biomedical Engineering 06/06/2018 - 06/08/2018 at Shanghai, China
 
-      - title: Lu HM, Lu XL, Zhai JH, Zhou RB, Qin YL, Li JD, Zhang CY, Shi JY. Ligand-binding characterization of simulated β-adrenergic-like octopamine receptor in Schistocerca gregaria via progressive structure simulation. J Mol Graph Model. 2017 Oct;77:25-32.
+      - title: 3. Lu HM, Lu XL, Zhai JH, Zhou RB, Qin YL, Li JD, Zhang CY, Shi JY. Ligand-binding characterization of simulated β-adrenergic-like octopamine receptor in Schistocerca gregaria via progressive structure simulation. J Mol Graph Model. 2017 Oct;77:25-32.
 #        authors: Lu HM, Lu XL, Zhai JH, Zhou RB, Qin YL, Li JD, Zhang CY, Shi JY.
 #        conference: "J Mol Graph Model"
 
