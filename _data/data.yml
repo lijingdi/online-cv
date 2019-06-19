@@ -94,7 +94,7 @@ experiences:
       details: |
         Developing a user-friendly interactive database of multiple human disease-related
         (including inflammation, obesity, T2D, etc.) gut microbiome (including specific 
-        taxa and functional pathways) for information searching or prediction on new data. (This is a BGI shenzhen & City University of Hong Kong collaborative project)
+        taxa and functional pathways) for information searching or prediction on new data. (This is a BGI shenzhen & City University of Hong Kong collaborative project, supervised by Dr. Shuaicheng Li)
         Related papers on research of human-disease gut microbiome have been collected for 
         information collection and raw data reanalysis using standard pipeline. 
         Computation now in progress. 
@@ -109,7 +109,7 @@ experiences:
         Developed automatic genome-based pipeline to discover horizontal gene transfer 
         and conducted research on identification of the horizontally transferred genes in insects. 
         Granted the Seed Foundation of Innovation and Creation for Graduate Students in 
-        Northwestern Polytechnical University [NO. Z2018230]. 
+        Northwestern Polytechnical University [NO. Z2018230]. Supervised by Dr. Huimeng Lu.
         Contribution -- Designed the study, established the local database and configured the software, 
         performed the whole analysis.
           - Horizontal gene transfer
@@ -121,7 +121,7 @@ experiences:
       company: Beijing Genomics Institute, BGI Shenzhen, China
       details: |
         Bioinformatics Intern at BGI. Conducted research on individual identification using gut microbial genomes. 
-        Patent granted (Patent No. 201810368491.3). 
+        Patent granted (Patent No. 201810368491.3). Supervised by Dr. Shuaicheng Li
         Contribution -- Participated in the statistical part (calculating the forensic parameters such as discrimination 
         power), drafted the patent.
           - Human gut microbiome, variant calling and haplotype identification
@@ -133,7 +133,7 @@ experiences:
       details: |
          Conducted research on evolution history of Fe-S cluster A-type assembly protein family. 
          Thesis “The evolution of Fe-S cluster A-type assembly protein reveals multiple duplication events.” 
-         Submitted to BMC Evolutionary Biology (resubmitted). 
+         Submitted to BMC Evolutionary Biology (resubmitted). Supervised by Dr. Huimeng Lu.
          Contribution -- Designed the study, performed the whole analysis, wrote the paper.
           - Protein family evolution, phylogenetics
 #          - Bullet point
@@ -143,7 +143,7 @@ experiences:
       company: School of Life Science, Northwestern Polytechnical University 
       details: |
          Participated in Undergraduate PEAK Program “Mechanism of miR-138-5p involved in  the regulation 
-         of skeletal muscle interactions.” 
+         of skeletal muscle interactions.” Supervised by Dr. Airong Qian.
          Contribution -- Participated in experiments on mice.
           - Animal Experiment
 #          - Bullet point
