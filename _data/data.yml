@@ -57,7 +57,7 @@ education:
           - Short-term communication at Oxford University
 
     - degree: Bachelor of Science, Biotechnology
-      university: Northwestern Polytechnical University, P.R.China
+      university: Northwestern Polytechnical University (university of “985” and “211” projects), P.R.China
       time: Sept. 2013 - Jul. 2017
       details: |
       
@@ -69,21 +69,20 @@ experiences:
       time: Mar. 2019 - Present
       company: EMBL-EBI, Cambridge UK
       details: |
-        Trainee at the European Bioinformatics Institute (EBI-EMBL). 
         Working on the project Comparison gut microbiome metagenomics study 
         between T2D patients and healthy subjects (collaborative project of 
         Novo Nordisk and EBI, supervised by Dr. Rob Finn and Dr. Alex Mitchell). 
         Contribution -- Performing the whole analysis including literature search, 
         data collection, data analysis (on going).
-          - Large-scale gut microbiome metagenomics study on T2D samples
+          - Large-scale gut microbiome metagenomics study on T2D samples and healthy controls
 #          - Bullet point
 
     - role: Intern
       time: Oct. 2018 - Jan. 2019
       company: United Nations Headquarters, New York USA
       details: |
-        Intern at the Department of Public Information, United Nations Headquarters, 
-        New York. Doing data archiving and metadata processing work, as well as 
+        Intern at the Department of Public Information, UNHQ, NY. 
+        Doing data archiving and metadata processing work, as well as 
         working as a volunteer for some high-level meetings. Working with all levels 
         of people from diverse cultural backgrounds.
           - Multicultural exposure
@@ -98,8 +97,8 @@ experiences:
         taxa and functional pathways) for information searching or prediction on new data. 
         Related papers on research of human-disease gut microbiome have been collected for 
         information collection and raw data reanalysis using standard pipeline. 
-        Computation now in progress. Contribution -- Collecting the paper and raw data,
-        performing the whole analysis and construct the database. 
+        Computation now in progress. 
+        Contribution -- Collecting the paper and raw data, performing the whole analysis and construct the database. 
           - Gut microbiome data collection on multiple diseased samples 
           - Database construction
 
@@ -110,8 +109,9 @@ experiences:
         Developed automatic genome-based pipeline to discover horizontal gene transfer 
         and conducted research on identification of the horizontally transferred genes in insects. 
         Granted the Seed Foundation of Innovation and Creation for Graduate Students in 
-        Northwestern Polytechnical University [NO. Z2018230]. Contribution -- Designed the study, 
-        established the local database and configured the software, performed the whole analysis.
+        Northwestern Polytechnical University [NO. Z2018230]. 
+        Contribution -- Designed the study, established the local database and configured the software, 
+        performed the whole analysis.
           - Horizontal gene transfer
 #          - Bullet point
 
@@ -120,11 +120,11 @@ experiences:
       time: Mar. 2017 - Dec. 2018
       company: Beijing Genomics Institute, BGI Shenzhen, China
       details: |
-        Bioinformatics Intern at Beijing Genomics Institution (Shenzhen, Guangdong). 
-        Conducted research on individual identification using gut microbial genomes. 
-        Patent granted (Patent No. 201810368491.3). Contribution -- Participated in the statistical part
-        (calculating the forensic parameters such as discrimination power), drafted the patent.
-          - Human gut microbiome, variant calling
+        Bioinformatics Intern at BGI. Conducted research on individual identification using gut microbial genomes. 
+        Patent granted (Patent No. 201810368491.3). 
+        Contribution -- Participated in the statistical part (calculating the forensic parameters such as discrimination 
+        power), drafted the patent.
+          - Human gut microbiome, variant calling and haplotype identification
 #          - Bullet point
 
     - role: Master Student
@@ -132,10 +132,10 @@ experiences:
       company: School of Life Science, Northwestern Polytechnical University 
       details: |
          Conducted research on evolution history of Fe-S cluster A-type assembly protein family. 
-         Thesis “The evolution of Fe-S cluster A-type assembly protein reveals duplication and multiple 
-         horizontal gene transfer events.” Submitted to Genome Biology and Evolution (under review). 
+         Thesis “The evolution of Fe-S cluster A-type assembly protein reveals multiple duplication events.” 
+         Submitted to Genome Biology and Evolution (under review). 
          Contribution -- Designed the study, performed the whole analysis, wrote the paper.
-          - Protein family evolution 
+          - Protein family evolution, phylogenetics
 #          - Bullet point
 
     - role: Undergraduate Student
@@ -143,7 +143,8 @@ experiences:
       company: School of Life Science, Northwestern Polytechnical University 
       details: |
          Participated in Undergraduate PEAK Program “Mechanism of miR-138-5p involved in  the regulation 
-         of skeletal muscle interactions.” Contribution -- Participated in experiments on mice.
+         of skeletal muscle interactions.” 
+         Contribution -- Participated in experiments on mice.
           - Animal Experiment
 #          - Bullet point
 
@@ -188,13 +189,22 @@ publications:
 #      bibendum fringilla a eu lectus.
 
     papers:
-      - title: XXX
-        authors: XXX
-#        conference: Addison-Wesley, 1968
+       - title: Li JD, Lu HM, Zhang YD, Lu XL, Gribskov, M. The evolution of Fe-S cluster A-type assembly protein 
+       reveals multiple duplication events. BMC Evol Biol. (resubmitted after "Reject & Resubmit" suggestion)
+#        authors: Lu HM, Lu XL, Zhai JH, Zhou RB, Qin YL, Li JD, Zhang CY, Shi JY.
+#        conference: "J Mol Graph Model"
 
-      - title: XXX
-        authors: XXx
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Insight into the process of ligand dissociation form β-adrenergic-like octopamine receptor 
+      in Schistocerca gregaria using steered molecular dynamics simulation (SMD)
+        authors: Lu, Xiaoli; Rao, Wei; Li, Jingdi; Lu, Huimeng
+        conference: BIBE 2018 - International Conference on Biological Information and Biomedical Engineering 
+        06/06/2018 - 06/08/2018 at Shanghai, China
+
+      - title: Lu HM, Lu XL, Zhai JH, Zhou RB, Qin YL, Li JD, Zhang CY, Shi JY. Ligand-binding characterization of 
+      simulated β-adrenergic-like octopamine receptor in Schistocerca gregaria via progressive structure simulation. 
+      J Mol Graph Model. 2017 Oct;77:25-32.
+#        authors: Lu HM, Lu XL, Zhai JH, Zhou RB, Qin YL, Li JD, Zhang CY, Shi JY.
+#        conference: "J Mol Graph Model"
 
 
 honors:
@@ -248,14 +258,15 @@ skills:
     assignments:
       - title: Bioinformatics
 #        link: "#hook"
-        tagline: "Linux shell, Python, R, Adobe Illustrator, 
-        genome reads mapping and assembly pipeline, metagenomics analysis pipeline, 
-        phylogenetics, etc."
+        tagline: "Statistical analysis, visualization and Programming (Python, R, Perl), 
+        Metagenomics analysis (QIIME, MetaPhlAn2-HUMAnN2, Metaspades-MetaWrap, Functional differential analysis), 
+        Metabolism and pathway (MetaCyc, Genome Property, KEGG), Protein structure analysis (PyMol, CATH), 
+        Phylogenetics (Protein family HMM-building iteration and homologs detection, MrBayes, PhyML, Figtree, etc.)"
 
 
-      - title: Molecular & Cell Biology
+      - title: Molecular and Cell Biology & Animal experiment
 #        link: "#"
-        tagline: "PCR, human cell culturing, etc. Others: experiment experience on mice"
+        tagline: "PCR, cell culturing, western blot, etc. Experiment experience on mice"
  
 
       - title: Language
