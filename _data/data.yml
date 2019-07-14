@@ -268,7 +268,7 @@ skills:
     assignments:
       - title: Bioinformatics
 #        link: "#hook"
-        tagline: "Statistical analysis, visualization and Programming (Python, R, Perl), 
+        tagline: "Statistical analysis, visualization and Programming (Python, R), 
         Metagenomics analysis (QIIME, MetaPhlAn2-HUMAnN2, Metaspades-MetaWrap, Functional differential analysis), 
         Metabolism and pathway (MetaCyc, Genome Property, KEGG), Protein structure analysis (PyMol, CATH), 
         Phylogenetics (Protein family HMM-building iteration and homologs detection, MrBayes, PhyML, Figtree, etc.)"
