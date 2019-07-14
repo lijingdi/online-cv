@@ -128,6 +128,15 @@ experiences:
 #          - Bullet point
 
     - role: Master Student
+      time: Jun. 2017 - Sep. 2017
+      company: School of Life Science, Northwestern Polytechnical University 
+      details: |
+        Participated in project "Ligand-binding characterization of simulated β-adrenergic-like octopamine receptor in Schistocerca gregaria via progressive structure simulation". Supervised by Dr. Huimeng Lu.
+        Contribution -- Participated in the protein structure homology modeling (using I-TASSER) and protein structure visualization (using PyMOL)
+          - Protein structure analysis
+          
+          
+    - role: Master Student
       time: Sept. 2016 - May. 2017
       company: School of Life Science, Northwestern Polytechnical University 
       details: |
@@ -189,9 +198,16 @@ publications:
 #      bibendum fringilla a eu lectus.
 
     papers:
-      - title: 1. Li JD, Lu HM, Zhang YD, Lu XL, Gribskov, M. The evolution of Fe-S cluster A-type assembly protein reveals multiple duplication events. BMC Evol Biol. (resubmitted after "Reject & Resubmit" suggestion)
+    
+        Patent granted (Patent No. 201810368491.3
+      - title: 1. Li JD, Lu HM, Zhang YD, Lu XL, Gribskov, M. The evolution of Fe-S cluster A-type assembly protein reveals multiple duplication events. Genome Biology and Evolution. (submitted)
 #        authors: Lu HM, Lu XL, Zhai JH, Zhou RB, Qin YL, Li JD, Zhang CY, Shi JY.
 #        conference: "J Mol Graph Model"
+
+      - title: 2. Patent: Individual identification using gut microbial genomes. (Patent No. 201810368491.3)
+        authors: Li SB, Wang S, Li JD.
+#        conference: "J Mol Graph Model"
+    
 
       - title: 2. Insight into the process of ligand dissociation form β-adrenergic-like octopamine receptor in Schistocerca gregaria using steered molecular dynamics simulation (SMD)
         authors: Lu, Xiaoli; Rao, Wei; Li, Jingdi; Lu, Huimeng
