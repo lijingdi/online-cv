@@ -70,10 +70,10 @@ experiences:
       time: Mar. 2019 - Present 
       company: EMBL-EBI, Cambridge UK
       details: |
-        Working on project "Large-scale gut microbiome metagenomics comparison
+        Working on project "Large-scale gut microbiome comparisons
         between T2D and healthy groups", (Novo Nordisk & EBI collaborative project, supervised by Dr. Rob Finn and Dr. Alex Mitchell). 
         Contribution -- Performing the whole analysis including literature search, 
-        data collection, data analysis, methods development (wrapping up and will draft the manuscript).
+        data collection, metagenomics analysis, methods development (wrapping up and will draft the manuscript).
           - Large-scale metagenomics analysis, novel genomes retrieval
           - Functional pathway quantification methods development on metagenomics data
 
@@ -107,14 +107,14 @@ experiences:
       details: |
         Participated in developing a user-friendly interactive database of multiple human disease-related
         (including inflammation, obesity, T2D, etc.) microbiome (including specific 
-        taxa and functional pathways) for searching or prediction on new data. (This is a BGI shenzhen & City University of Hong Kong collaborative project, supervised by Dr. Shuaicheng Li)
+        taxa and functional pathways) for searching or prediction on new data. (This is a BGI shenzhen & City University of Hong Kong collaborative project, supervised by Dr. Shuaicheng Li).
         Contribution -- Collecting the paper and raw data, performing the metagenomics analysis and helped designed the database. 
           - Database construction
 
     - role: 
       details: |
         Conducted research on individual identification using gut microbial genomes. 
-        Patent granted (Patent No. 201810368491.3). Supervised by Dr. Shengbin Li
+        Patent granted (Patent No. 201810368491.3). Supervised by Dr. Shengbin Li.
         Contribution -- Participated in the statistical part (calculating the forensic parameters such as discrimination 
         power), drafted the patent.
           - Genome variant calling and haplotype identification
@@ -130,7 +130,7 @@ experiences:
           
           
     - role: Undergraduate Student
-      time: Sept. 2016 - Sept. 2017
+      time: Sept. 2015 - Sept. 2017
       company: School of Life Science, Northwestern Polytechnical University 
       details: |
          Conducted research on evolution history of Fe-S cluster A-type assembly protein family (graduation thesis). Supervised 
@@ -142,7 +142,6 @@ experiences:
 #          - Bullet point
 
     - role: 
-      time: Sept. 2015 - Jul. 2016
       details: |
          Participated in Undergraduate PEAK Program “Mechanism of miR-138-5p involved in  the regulation 
          of skeletal muscle interactions.” Supervised by Dr. Airong Qian.
@@ -262,10 +261,10 @@ skills:
     assignments:
       - title: Bioinformatics
 #        link: "#hook"
-        tagline: "Statistical analysis and programming (Python, R, bash, familiar with IBM high-performance computing), 
-        Metagenomics analysis (QIIME, MetaPhlAn2-HUMAnN2, Metaspades-MetaWrap, Functional differential analysis), 
-        Metabolism and pathway (MetaCyc, Genome Property, KEGG), 
-        Phylogenetics (Protein family HMM-building iteration and homologs detection, tree visualization and customization etc.),
+        tagline: "Statistical analysis and programming (Python, R, bash, familiar with IBM high-performance computing); 
+        Genomics and Metagenomics analysis; 
+        Metabolism and pathway analysis (MetaCyc, Genome Property, KEGG. etc.); 
+        Phylogenetics analysis;
         Protein structure analysis (PyMol, CATH)."
 
 
