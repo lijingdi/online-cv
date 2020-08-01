@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: JINGDI LI
-    tagline: Research Trainee at EBI / Master Student
+    tagline: EBI Research Trainee / Master Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
     email: judy@ebi.ac.uk
@@ -33,7 +33,7 @@ sidebar:
       - item: Swimming
         link:
 
-      - item: Writing
+      - item: Writing (has published novels online)
         link:
 
       - item: Reading
@@ -42,46 +42,46 @@ sidebar:
 career-profile:
     title: Research Interest
     summary: |
-     My primary research interests are in in evolutionary biology and devolopment of genomic analysis methods.
+     My primary research interests are in evolutionary biology and genomic analysis methods development.
 
 education: 
     - degree: Master of Science, Biology (Bioinformatics in specific)
-      university: Northwestern Polytechnical University (university of “985” and “211” projects), P.R.China
+      university: Northwestern Polytechnical University (NPU, university of “985” and “211” projects), P.R.China
       time: Sept. 2017 - Apr. 2020
       details: |
-      
-          - 90+/100 major GPA 
-          - Joint training of Northwestern Polytechnical University and Beijing Genomics Institute (BGI, shenzhen)
+       
+          - Joint training of NPU and Beijing Genomics Institute (BGI, shenzhen)
           - Short-term communication at University of Oxford
-          - UN Intern
           - EMBL-EBI Research Trainee
+          - 90+/100 major GPA
+          - UN Intern
 
     - degree: Bachelor of Science, Biotechnology
-      university: Northwestern Polytechnical University (university of “985” and “211” projects), P.R.China
+      university: NPU, P.R.China
       time: Sept. 2013 - Jul. 2017
       details: |
       
           - 90/100 major GPA 
-          - Exam-exempted postgraduate
           - BGI Bioinformatics Intern
+          - Exam-exempted postgraduate
 
 experiences:
     - role: Research Trainee
       time: Mar. 2019 - Present 
       company: EMBL-EBI, Cambridge UK
       details: |
-        Working on the project "Large-scale gut microbiome metagenomics comparison study 
+        Working on project "Large-scale gut microbiome metagenomics comparison
         between T2D and healthy groups", (Novo Nordisk & EBI collaborative project, supervised by Dr. Rob Finn and Dr. Alex Mitchell). 
         Contribution -- Performing the whole analysis including literature search, 
         data collection, data analysis, methods development (wrapping up and will draft the manuscript).
-          - Large-scale metagenomics analysis, novel genome retrieval
-          - Functional pathway quantification methods development based on metagenomics data
+          - Large-scale metagenomics analysis, novel genomes retrieval
+          - Functional pathway quantification methods development on metagenomics data
 
     - role: Intern
       time: Oct. 2018 - Jan. 2019
       company: United Nations Headquarters, New York USA
       details: |
-        Intern at the Department of Public Information, UNHQ, NY. 
+        Intern at Department of Public Information, UNHQ, NY. 
         Doing data archiving and metadata processing work, as well as 
         working as a volunteer for some high-level meetings. Working with all levels 
         of people from diverse cultural backgrounds.
@@ -111,6 +111,7 @@ experiences:
         Contribution -- Collecting the paper and raw data, performing the metagenomics analysis and helped designed the database. 
           - Database construction
 
+    - role: 
       details: |
         Conducted research on individual identification using gut microbial genomes. 
         Patent granted (Patent No. 201810368491.3). Supervised by Dr. Shengbin Li
@@ -132,8 +133,8 @@ experiences:
       time: Sept. 2016 - Sept. 2017
       company: School of Life Science, Northwestern Polytechnical University 
       details: |
-         Conducted research on evolution history of Fe-S cluster A-type assembly protein family. Graduation thesis and supervised 
-         by Dr. Huimeng Lu. I further refined the analysis during my master's study and published the manuscript 
+         Conducted research on evolution history of Fe-S cluster A-type assembly protein family (graduation thesis). Supervised 
+         by Dr. Huimeng Lu. I further refined the analysis during my master and published the manuscript 
          "The evolution history of Fe-S cluster A-type assembly protein reveals multiple duplication events and essential protein motifs."
          on Genome Biology and Evolution.
          Contribution -- Designed the study, performed the whole analysis, wrote and submitted the paper.
@@ -276,19 +277,14 @@ skills:
 
       - title: Language
 #        link: "#"
-        tagline: "Fluent English speaking and writing. IELTS 7.5 (August 2019 certified, listening: 8.5, reading 8.5, writing: 6, speaking: 7)(* I got lower IELTS writing score than I expected because I did not have much time to prepare for my first IELTS test when I was working in Cambridge. But I have confidence in my English writing: I have worked in the UN and EBI where English is the official working language and I have never had any problems in writing academic reports or drafting manuscripts). 
+        tagline: "Fluent English speaking and writing. IELTS 7.5 (August 2019 certified, listening: 8.5, reading 8.5, writing: 6, speaking: 7)(* I got lower IELTS writing score than I expected because I did not have much time to prepare for my first IELTS test when I was working in Cambridge. But I have confidence in my English writing: I have worked in the UN and EBI where English is the official working language and I have never had any problems in writing academic reports or drafting manuscripts)." 
 
 
       - title: Team Work
 #        link: "#"
         tagline: "Good communication skills; can be a proactive member and fit in well in a 
         team under multicultural environment; Experience in traineeship at EBI (Cambridge, UK, >1 year), internship at Beijing Genomics Institute (BGI, shenzhen, ~2 years) and 
-        United Nations Headquarters (NY, 3 months)." 
-
-
-      - title: Other
-#        link: "#"
-        tagline: "Great multitasking ability and self-learning motivation. "
+        United Nations Headquarters (NY, 3 months). Also has strong self-learning motivation and multitasking ability."
    
 
      
