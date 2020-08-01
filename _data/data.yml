@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: JINGDI LI
-    tagline: Trainee at EBI / Master Student
+    tagline: Research Trainee at EBI / Master Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
     email: judy@ebi.ac.uk
@@ -42,17 +42,19 @@ sidebar:
 career-profile:
     title: Research Interest
     summary: |
-     My primary research interests are in host immmune response to microbial infection and microbiome - host interactions. I’m also interested in evolutionary biology.
+     My primary research interests are in in evolutionary biology and devolopment of genomic analysis methods.
 
 education: 
     - degree: Master of Science, Biology (Bioinformatics in specific)
-      university: Northwestern Polytechnical University, P.R.China
-      time: Sept. 2017 - Present
+      university: Northwestern Polytechnical University (university of “985” and “211” projects), P.R.China
+      time: Sept. 2017 - Apr. 2020
       details: |
       
-          - Joint training of Northwestern Polytechnical University and Beijing Genomics Institute. BGI shenzhen 
           - 90+/100 major GPA 
-          - Short-term communication at the University of Oxford
+          - Joint training of Northwestern Polytechnical University and Beijing Genomics Institute (BGI, shenzhen)
+          - Short-term communication at University of Oxford
+          - UN Intern
+          - EMBL-EBI Research Trainee
 
     - degree: Bachelor of Science, Biotechnology
       university: Northwestern Polytechnical University (university of “985” and “211” projects), P.R.China
@@ -61,18 +63,19 @@ education:
       
           - 90/100 major GPA 
           - Exam-exempted postgraduate
+          - BGI Bioinformatics Intern
 
 experiences:
-    - role: Trainee
-      time: Mar. 2019 - Present (will last for 1 year)
+    - role: Research Trainee
+      time: Mar. 2019 - Present 
       company: EMBL-EBI, Cambridge UK
       details: |
-        Working on the project "Comparison gut microbiome metagenomics study 
-        between T2D patients and healthy subjects", (Novo Nordisk & EBI collaborative project, supervised by Dr. Rob Finn and Dr. Alex Mitchell). 
+        Working on the project "Large-scale gut microbiome metagenomics comparison study 
+        between T2D and healthy groups", (Novo Nordisk & EBI collaborative project, supervised by Dr. Rob Finn and Dr. Alex Mitchell). 
         Contribution -- Performing the whole analysis including literature search, 
-        data collection, data analysis (on going).
-          - Large-scale gut microbiome metagenomics study on T2D samples and healthy controls
-#          - Bullet point
+        data collection, data analysis, methods development (wrapping up and will draft the manuscript).
+          - Large-scale metagenomics analysis, novel genome retrieval
+          - Functional pathway quantification methods development based on metagenomics data
 
     - role: Intern
       time: Oct. 2018 - Jan. 2019
@@ -82,25 +85,11 @@ experiences:
         Doing data archiving and metadata processing work, as well as 
         working as a volunteer for some high-level meetings. Working with all levels 
         of people from diverse cultural backgrounds.
-          - Multicultural exposure
+          - Multicultural exposure and leadership training
 #          - Bullet point
 
     - role: Master Student
-      time: Mar. 2018 - Present
-      company: School of Life Science, Northwestern Polytechnical University 
-      details: |
-        Developing a user-friendly interactive database of multiple human disease-related
-        (including inflammation, obesity, T2D, etc.) gut microbiome (including specific 
-        taxa and functional pathways) for information searching or prediction on new data. (This is a BGI shenzhen & City University of Hong Kong collaborative project, supervised by Dr. Shuaicheng Li)
-        Related papers on research of human-disease gut microbiome have been collected for 
-        information collection and raw data reanalysis using standard pipeline. 
-        Computation now in progress. 
-        Contribution -- Collecting the paper and raw data, performing the whole analysis and construct the database. 
-          - Gut microbiome data collection on multiple diseased samples 
-          - Database construction
-
-    - role: Master Student
-      time: Jun. 2017 - Jan. 2019
+      time: Jun. 2018 - Oct. 2018
       company: School of Life Science, Northwestern Polytechnical University 
       details: |
         Developed automatic genome-based pipeline to discover horizontal gene transfer 
@@ -108,20 +97,26 @@ experiences:
         Granted the Seed Foundation of Innovation and Creation for Graduate Students in 
         Northwestern Polytechnical University [NO. Z2018230]. Supervised by Dr. Huimeng Lu.
         Contribution -- Designed the study, established the local database and configured the software, 
-        performed the whole analysis.
-          - Horizontal gene transfer
-#          - Bullet point
-
-
-    - role: Intern
+        performed the whole analysis, finished and submitted the grant report.
+          - Horizontal gene transfer pipeline development
+          
+          
+    - role: Bioinformatics Intern 
       time: Mar. 2017 - Dec. 2018
       company: Beijing Genomics Institute, BGI Shenzhen, China
       details: |
-        Bioinformatics Intern at BGI. Conducted research on individual identification using gut microbial genomes. 
-        Patent granted (Patent No. 201810368491.3). Supervised by Dr. Shuaicheng Li
+        Participated in developing a user-friendly interactive database of multiple human disease-related
+        (including inflammation, obesity, T2D, etc.) microbiome (including specific 
+        taxa and functional pathways) for searching or prediction on new data. (This is a BGI shenzhen & City University of Hong Kong collaborative project, supervised by Dr. Shuaicheng Li)
+        Contribution -- Collecting the paper and raw data, performing the metagenomics analysis and helped designed the database. 
+          - Database construction
+
+      details: |
+        Conducted research on individual identification using gut microbial genomes. 
+        Patent granted (Patent No. 201810368491.3). Supervised by Dr. Shengbin Li
         Contribution -- Participated in the statistical part (calculating the forensic parameters such as discrimination 
         power), drafted the patent.
-          - Human gut microbiome, variant calling and haplotype identification
+          - Genome variant calling and haplotype identification
 #          - Bullet point
 
     - role: Master Student
@@ -133,15 +128,16 @@ experiences:
           - Protein structure analysis
           
           
-    - role: Master Student
-      time: Sept. 2016 - May. 2017
+    - role: Undergraduate Student
+      time: Sept. 2016 - Sept. 2017
       company: School of Life Science, Northwestern Polytechnical University 
       details: |
-         Conducted research on evolution history of Fe-S cluster A-type assembly protein family. 
-         Thesis “The evolution of Fe-S cluster A-type assembly protein reveals multiple duplication events.” 
-         Submitted to BMC Evolutionary Biology (resubmitted). Supervised by Dr. Huimeng Lu.
-         Contribution -- Designed the study, performed the whole analysis, wrote the paper.
-          - Protein family evolution, phylogenetics
+         Conducted research on evolution history of Fe-S cluster A-type assembly protein family. Graduation thesis and supervised 
+         by Dr. Huimeng Lu. I further refined the analysis during my master's study and published the manuscript 
+         "The evolution history of Fe-S cluster A-type assembly protein reveals multiple duplication events and essential protein motifs."
+         on Genome Biology and Evolution.
+         Contribution -- Designed the study, performed the whole analysis, wrote and submitted the paper.
+          - Gene family evolution, phylogenetics
 #          - Bullet point
 
     - role: Undergraduate Student
@@ -150,8 +146,8 @@ experiences:
       details: |
          Participated in Undergraduate PEAK Program “Mechanism of miR-138-5p involved in  the regulation 
          of skeletal muscle interactions.” Supervised by Dr. Airong Qian.
-         Contribution -- Participated in experiments on mice.
-          - Animal Experiment
+         Contribution -- Participated in experiments on mice and cell culture.
+          - Cell culture, animal Experiment
 #          - Bullet point
 
 projects:
@@ -196,7 +192,7 @@ publications:
 
     papers:
  
-      - title: 1. Li JD, Lu HM, Zhang YD, Lu XL, Gribskov, M. The evolution of Fe-S cluster A-type assembly protein reveals multiple duplication events. Genome Biology and Evolution. (submitted)
+      - title: 1. Lu HM*, Li JD (first author), Zhang YD, Lu XL, Xu C, Huang Y, Gribskov, M. (2020) The evolution history of Fe-S cluster A-type assembly protein reveals multiple gene duplication events and essential protein motifs. Genome Biology and Evolution 12: 160-173.
 #        authors: Lu HM, Lu XL, Zhai JH, Zhou RB, Qin YL, Li JD, Zhang CY, Shi JY.
 #        conference: "J Mol Graph Model"
 
@@ -206,8 +202,10 @@ publications:
     
 
       - title: 3. Insight into the process of ligand dissociation form β-adrenergic-like octopamine receptor in Schistocerca gregaria using steered molecular dynamics simulation (SMD)
-        authors: Lu, Xiaoli; Rao, Wei; Li, Jingdi; Lu, Huimeng
+        authors: Lu XL; Rao W; Li JD; Lu HM*
         conference: BIBE 2018 - International Conference on Biological Information and Biomedical Engineering 06/06/2018 - 06/08/2018 at Shanghai, China
+        
+      - title: 4. Lu HM*, Lu XL, Zhai JH, Zhou RB, Qin YL, Li JD, Zhang CY, Shi JY. (2017) Ligand-binding characterization of simulated β-adrenergic-like octopamine receptor in Schistocerca gregaria via progressive structure simulation, Journal of Molecular Graphics and Modelling 77:25-32. 
 
 
 
@@ -249,7 +247,9 @@ honors:
       - title: Sept. 2017
 #        link:
         tagline: "Excellent Prize in “Falling Walls Lab China”."
-        
+      
+      - title: 2015 and 2016
+        tagline: Undergraduate Scholarship at Northwestern Polytechnical University.
 
 
 skills:
@@ -262,33 +262,33 @@ skills:
     assignments:
       - title: Bioinformatics
 #        link: "#hook"
-        tagline: "Statistical analysis, visualization and Programming (Python, R), 
+        tagline: "Statistical analysis and programming (Python, R, bash, familiar with IBM high-performance computing), 
         Metagenomics analysis (QIIME, MetaPhlAn2-HUMAnN2, Metaspades-MetaWrap, Functional differential analysis), 
-        Metabolism and pathway (MetaCyc, Genome Property, KEGG), Protein structure analysis (PyMol, CATH), 
-        Phylogenetics (Protein family HMM-building iteration and homologs detection, MrBayes, PhyML, Figtree, etc.)"
+        Metabolism and pathway (MetaCyc, Genome Property, KEGG), 
+        Phylogenetics (Protein family HMM-building iteration and homologs detection, tree visualization and customization etc.),
+        Protein structure analysis (PyMol, CATH)."
 
 
       - title: Molecular and Cell Biology & Animal experiment
 #        link: "#"
-        tagline: "PCR, cell culturing, western blot, etc. Experiment experience on mice"
+        tagline: "PCR, cell culturing, western blot, etc. Mice experiment"
  
 
       - title: Language
 #        link: "#"
-        tagline: "Fluent English speaking and writing. TOEFL 106 (October 2016 certified)."
+        tagline: "Fluent English speaking and writing. IELTS 7.5 (August 2019 certified, listening: 8.5, reading 8.5, writing: 6, speaking: 7)(* I got lower IELTS writing score than I expected because I did not have much time to prepare for my first IELTS test when I was working in Cambridge. But I have confidence in my English writing: I have worked in the UN and EBI where English is the official working language and I have never had any problems in writing academic reports or drafting manuscripts). 
 
 
       - title: Team Work
 #        link: "#"
         tagline: "Good communication skills; can be a proactive member and fit in well in a 
-        team under multicultural environment; Experience in traineeship at EBI (Cambridge, UK, 1 year, 
-        on going), internship at Beijing Genomics Institute (BGI, shenzhen, ~2 years) and 
+        team under multicultural environment; Experience in traineeship at EBI (Cambridge, UK, >1 year), internship at Beijing Genomics Institute (BGI, shenzhen, ~2 years) and 
         United Nations Headquarters (NY, 3 months)." 
 
 
-      - title: Coordination
+      - title: Other
 #        link: "#"
-        tagline: "Great multitasking ability. "
+        tagline: "Great multitasking ability and self-learning motivation. "
    
 
      
